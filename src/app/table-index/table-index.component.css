@@ -1,0 +1,13 @@
+.w-100 {
+  width: 100%;
+}
+
+.header {
+  margin: 20px;
+  text-align: end;
+}
+
+.user-type {
+  padding: 5px;
+  background-color: rgb(219, 219, 0);
+}
